@@ -1,3 +1,3 @@
 # Data-Scientist
 
-#Trabajamos que he realizado con R y pandas :)
+#Trabajos que he realizado con Python R y pandas :)
